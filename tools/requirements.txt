@@ -1,0 +1,6 @@
+# Python 3.13: the bpy 5.2 wheels are cp313-only.
+bpy==5.2.4
+numpy==2.5.4
+pillow==13.0.0
+scipy==1.18.1
+scikit-image==0.26.0
